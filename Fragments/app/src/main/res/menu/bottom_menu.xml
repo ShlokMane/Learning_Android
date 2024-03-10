@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_naruto"
+        android:icon="@drawable/naruto_icon"
+        android:title="Naruto" />
+    <item
+        android:id="@+id/menu_sasuke"
+        android:icon="@drawable/sasuke_icon"
+        android:title="Sasuke" />
+    <item
+        android:id="@+id/menu_sakura"
+        android:icon="@drawable/sakura_icon"
+        android:title="Sakura" />
+    <item
+        android:id="@+id/menu_kakashi"
+        android:icon="@drawable/kakashi_icon"
+        android:title="Kakashi" />
+    <item
+        android:id="@+id/menu_team7"
+        android:icon="@drawable/team7_icon"
+        android:title="Team 7" />
+</menu>
