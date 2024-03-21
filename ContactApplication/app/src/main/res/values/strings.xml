@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ContactApplication</string>
+    <string name="user_image_desc">User Image</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="name">Name</string>
+    <string name="contact_image_preview">Contact Image Preview</string>
+    <string name="choose_image">Choose Image</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="add_contact_fab">Add Contact Floating Action Button</string>
+</resources>
